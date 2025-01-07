@@ -10,22 +10,22 @@ const Footer = () => {
           Hotel Mermoura
         </Link>
 
-        <h4 className='font-semibold text-[40px] py-6'>Contact</h4>
+        <h4 className='font-semibold text-[35px] py-6'>Contact</h4>
 
         <div className='flex flex-wrap gap-16 items-center justify-between'>
           <div className='flex-1'>
-            <p>123 Road</p>
+            <p>Guelma la gare</p>
             <div className='flex items-center py-4'>
               <BsFillSendFill />
-              <p className='ml-2'>codewithlari</p>
+              <p className='ml-2'>code with islem & amir</p>
             </div>
             <div className='flex items-center'>
               <BsTelephoneOutbound />
-              <p className='ml-2'>000-000-00</p>
+              <p className='ml-2'>032-4125-791</p>
             </div>
             <div className='flex items-center pt-4'>
               <BiMessageDetail />
-              <p className='ml-2'>codewithlari</p>
+              <p className='ml-2'>code with islem & amir</p>
             </div>
           </div>
 
