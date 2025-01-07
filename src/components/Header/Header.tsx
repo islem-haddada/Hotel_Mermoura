@@ -19,7 +19,6 @@ const Header = () => {
       <div className='flex items-center w-full md:2/3'>
         <Link href='/' className='font-black text-tertiary-dark'>
           Hotel Mermoura
-            
         </Link>
         <ul className='flex items-center ml-5'>
           <li className='flex items-center'>
